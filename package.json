@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pip": "^0.0.1",
+    "threading": "^0.0.2"
+  }
+}
