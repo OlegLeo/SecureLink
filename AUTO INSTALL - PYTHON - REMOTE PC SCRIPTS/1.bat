@@ -1,0 +1,1 @@
+E:\python-3.10.7-amd64.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=1 & start cmd.exe @cmd /k powershell E:\2.ps1
